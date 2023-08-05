@@ -5,3 +5,6 @@ HALO
 menambahkan line
 menambahkan line lagi
 >>>>>>> feature1
+HALO
+haii
+
